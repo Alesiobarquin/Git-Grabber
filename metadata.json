@@ -1,0 +1,5 @@
+{
+  "name": "Git Grabber",
+  "description": "Automated GitHub contribution collector for final project submissions.",
+  "requestFramePermissions": []
+}
