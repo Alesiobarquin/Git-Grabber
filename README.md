@@ -2,6 +2,8 @@
 
 A React application designed to help you quickly gather all your GitHub contributions (commits, pull requests, and issues) for a specific repository. 
 
+[View Deployment](https://alesiobarquin.github.io/Git-Grabber/)
+
 **Purpose:** simplifying the process of submitting contribution links for project grading.
 
 ## Features
