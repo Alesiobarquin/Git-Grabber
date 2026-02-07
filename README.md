@@ -1,6 +1,6 @@
 # Git Grabber
 
-A React application designed to help you quickly gather all your GitHub contributions (commits, pull requests, and issues) for a specific repository. 
+A React application designed to help you quickly gather the links to all your GitHub contributions (commits, pull requests, and issues) for a specific repository. 
 
 [View Deployment](https://alesiobarquin.github.io/Git-Grabber/)
 
